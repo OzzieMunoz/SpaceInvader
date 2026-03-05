@@ -1,0 +1,3112 @@
+fileFormatVersion: 2
+guid: a060b25843946a540a10cc201af5a833
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7677526327147106475
+    second: Irregular Sprite Sheet_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55fefa49b72f37590800000000000000
+      internalID: -7677526327147106475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6446da0a1cf0e0b4bbf75278ea12c7c3
+      internalID: 754684278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1323152fcfbd1964eb91b4d5d670792c
+      internalID: 1463165562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c839cc38156d943adb010333ee72e3
+      internalID: -655981640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 171
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a220df48c259a2f40a57788ad1df8775
+      internalID: 1267004675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 162
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d99661f64dc40449ab0f4dea987caee
+      internalID: 602927340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 171
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 365e92439efb10242af7217ff5223b17
+      internalID: 1298233083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bab55f5a3328b24095108794c44bd1a
+      internalID: 1125738315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 171
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06d88d083a16be542ae3782cb82e8e86
+      internalID: -766585206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f6c26faabafe6642bb5097380f0dd92
+      internalID: 146213341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eab80af3e4c2084ebbde8648986446e
+      internalID: 1414462906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ae6b2ab2d539447b2e261af55c5bf7
+      internalID: 914352265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 171
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611a42ac379c72c46ae4c1d8f4760048
+      internalID: -450194644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03ff7bee57af56842a441b7590f18b79
+      internalID: -1040525170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30144bc81501c84aa378483685b055d
+      internalID: -643660931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 153
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41a4ed3daf0abc48bd23df258c3c5e9
+      internalID: 1749119065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 91
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcea61d91d60494596d9916b3ecb99f
+      internalID: -1815723965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 91
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165f1a9ab3cb6714ab0dafe36bce42df
+      internalID: -968898270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e5b8c62bd8974ba66cb732defb300
+      internalID: -2091934180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c461ccd4343e71746becebced636f151
+      internalID: 153477644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 162
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f685801861b1b754d8e65d34a61e7bb9
+      internalID: -74189850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 162
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce9d22c50ddb4a40889b9de64fd59bd
+      internalID: -642733691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 162
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62cfd3983eb17574d93959abbf0c9f78
+      internalID: 2034687455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc5176b98871a4ea31606f9a6aa3f3
+      internalID: 1588059624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_47
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1502d33874f577745b809907a77a4b28
+      internalID: -858394239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_48
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d66edbca99b404babb94b20b3baa2b
+      internalID: -267269878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_50
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9045002d42b56134682b48f377ec9b65
+      internalID: -1942152664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_52
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046d682d896db04448ad6cc6fa2e6444
+      internalID: 1400202723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_54
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 153
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e08e1192b7a309f4fa935447440614f7
+      internalID: 1949981130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b510c50ba1a15b4a824cbcdbcf54500
+      internalID: 458122119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_70
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32904dc360eeee341a57e180fde65c69
+      internalID: 1390647715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_71
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 144
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b68c6ec6ebbda3e4b921fedf737412ae
+      internalID: -1978779271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_73
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a88f8c7c4f4119488a76924a7d63ff3
+      internalID: 841756371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_75
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd93261cf50914640a47b73eadc7a09b
+      internalID: -962598598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_77
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e270566b7f8f384fb101c5318107274
+      internalID: -206831956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f441ac8a08de0345ab14dc5816c304b
+      internalID: 484898547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_93
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b19a27d6071d54db44b838051ef485
+      internalID: 931460879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_94
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 135
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a7661151e154346860f0f0ff1e202a
+      internalID: -1066423373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_96
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5709097f938064847aee639c9fb7c082
+      internalID: 730295994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_98
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 135
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f100eb41a7abfb4ab52c61a0a1055d7
+      internalID: 1672739957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_115
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a47c2c00ace0a74880f679b4a8a82a9
+      internalID: 62051382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_116
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0203f649044b84b4b9f1600fb730afd0
+      internalID: 1003773764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_117
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f4dff8e2314ea48a53031f84c6085c
+      internalID: 319651686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_119
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 126
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d710225da9d034bbacd0492d83535e
+      internalID: -1851678096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_121
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 126
+        width: 9
+        height: 8
+      alignment: 9
+      pivot: {x: 0.36400414, y: 0.4660015}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd45e6b449ac24e4cb6b1adeddd1166d
+      internalID: 1848621094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_138
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da384b7e8fa25e64e9a8966231c2d788
+      internalID: -690768620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_139
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a330571323aa3346945d126e4ebeff3
+      internalID: -1660128845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_140
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6376493e94ccd9748b8125fce0e4a7d5
+      internalID: -750211943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_142
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3f2e990ffdd0d48a75d0b26467aa6d
+      internalID: 1498398276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_144
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 117
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae55b5c5bcda6240bfef04a07b1a163
+      internalID: 955864137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_161
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75cccb71dd53254dbe148e244b91375
+      internalID: 670052331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_162
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b85dff32d30bae48b3b9af161fb793d
+      internalID: 521735180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_163
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 108
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d451f863af1784a9dcf41597d03905
+      internalID: 326424682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_165
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21f46db165be9f8499bd7bc49d93e65c
+      internalID: -145712568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_167
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 108
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d731b8b94361c35418315b961111a68d
+      internalID: -1510868103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_184
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2993c7542b8d4ea48923c6ca922b6f90
+      internalID: 1949923785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_185
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b19d386616b714e9629672c3c515a7
+      internalID: -1929679177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_186
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 99
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67e1cdf8c7f5434395639593a259dee
+      internalID: 2034489711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_188
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 99
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3333358dfa987244ba0a311a2128d8e0
+      internalID: -1667179835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_190
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 99
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1786d037798ba34f8c473dd72daa8b6
+      internalID: 1022893997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_207
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd4f3c9fb3622b044b9ffce9205bd5e6
+      internalID: 1057134164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_208
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3fc71fa0fbfe2c4a8450969ad9b5267
+      internalID: -2045489068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_209
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 90
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fef092982f3aa488a5987141a4e58f
+      internalID: -48824851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_211
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 90
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af203bfcfb83620489719d3425f2caa2
+      internalID: -822041809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_213
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 90
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 185c174db3d62924b97e5a3c0e8f0184
+      internalID: -623050367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_230
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c7951c1c01e8e948a8652d1f9933371
+      internalID: -1409508767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_231
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd10ccfa44322b4fa5dc8e3c1bb8e22
+      internalID: 336895740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_232
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 418061caef840764abdc259a2a277beb
+      internalID: -403363382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_234
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 81
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.7039938, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648fe3fb365ca94f8ae69df4ccb1bd4
+      internalID: -1143624689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_236
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 81
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 678216e43fe9305439b4c0aedd44eb01
+      internalID: -1048324177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_253
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d2192c8e83c7924cb3caae6ebcda1f7
+      internalID: -299388158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_254
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b85de042124a8b41a6cafe4f08051e4
+      internalID: -338096529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_255
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 72
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180601f4a1e3854429e591af9213b05c
+      internalID: -257566132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_257
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 72
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037de2373579a2347b2046d96ed50dc5
+      internalID: -458103850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_259
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 72
+        width: 7
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5226655, y: 0.2506752}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8760ea58fb75fb4989fd582edfd47c0
+      internalID: 1370733229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_276
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3bdc125adc055b43ad5cc88c3e8ddf6
+      internalID: 126689823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_277
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e18168b3c4c2f444a150595d6243c7e
+      internalID: 162947743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_278
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 63
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c736334b2dab674d873f13d0858b08a
+      internalID: 563296867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_280
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b05013b092243041aea8ee62f79172a
+      internalID: 485302882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_282
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 63
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9f41fca7ea79848a213e9c94481491
+      internalID: -1796221081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_299
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f455eaecf0c40ab4ea775ff96b1194f6
+      internalID: 1520331452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_300
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 728d4b813297ddf42b1254d28f47265c
+      internalID: 1825160634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_301
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532b03da21bb68b4bbb8ca132a66fb71
+      internalID: -461480338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_303
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345350bd5f6572846a998ba20ba0a81b
+      internalID: 1654773612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_305
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 54
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e3ba6a64da9f84b99c52cde01dabe3
+      internalID: 1106367277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_322
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcde3dd38d7002e47814261916dbfec1
+      internalID: -1590354083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_323
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19e9811a79eb3574f804eb2603715528
+      internalID: 1548553817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_324
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fafe87b1e750c438166f73620cdeeb
+      internalID: 1665454611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_326
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671f969f9d872d24da2c5561d3022b11
+      internalID: 1993269475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_328
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 45
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d256d0159e722429a0a129ea406cd7
+      internalID: 1717531423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_345
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cc375d53523444ab1beb16566690f1
+      internalID: 902447678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_346
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f7f66745fdf544be44b518485cdfc
+      internalID: -1323613834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_347
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4db4c5d8d7f1e341a78f7ab6ce11e9a
+      internalID: -1922618428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_349
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7ed7f0cedf9bc44a4158aa4ecc91fd
+      internalID: 2038349107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_351
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 36
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05b9929f43f5c8478e790cd71a601a1
+      internalID: -297217908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_368
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd0f212a23b29345b28c008b0e15fac
+      internalID: -48631734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_369
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e0b7b7c8d8f0b4fb37871018427e23
+      internalID: -827107168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_370
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff8df272fd1ad564c9bbc6aec3c86b9a
+      internalID: 729196700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_372
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ded387fec6452f4eacbb94f036cdcf4
+      internalID: 222172428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_374
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 27
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4119ca51b38c4844b68fa7dc7250856
+      internalID: 564722336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_391
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a024123458ee92d40944deb562c8b506
+      internalID: -1722667671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_392
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a84b2326b0fb0884dadce00df00e92a6
+      internalID: -1696264329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_393
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccbb3909b18b114eb50833b25afbc4d
+      internalID: 1971495804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_395
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd2263f295a9ab442822fbb18d387480
+      internalID: 421170959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_397
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 18
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f01c29bbe02da4ba7fb07fcace7364
+      internalID: -844723525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_414
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc709aa73ea0e04c82b2504f5c08291
+      internalID: -107726925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_415
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb76848961777c46836181435c7ca2f
+      internalID: 985714720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_416
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec198c8de6683ab4f892b1e9fd7de7f4
+      internalID: 686798356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_418
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb43d26c596fcb4892e6ea13cbb88a4
+      internalID: -909906906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_420
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 9
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb7423f455d9f54478e219c7a606d9c0
+      internalID: 976887418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_437
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620d1b0f41cdb1542b9184cf4afdf42b
+      internalID: -526415964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_438
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 762f506e0c34713479d7448edf269981
+      internalID: 134829557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_439
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae2059413f373f24d9aa5a64060f4673
+      internalID: 1537350816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_441
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce09c1a4b0f18c4aa457e0f7941ba83
+      internalID: -1098247736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Irregular Sprite Sheet_443
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37a55e86589a4ff408c737e5d26cf69d
+      internalID: 235769103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1b6c6b48fb0b32a439f99c71ef80a4cb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":8.0,"y":8.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":1.0,"y":1.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Irregular Sprite Sheet_0: -7677526327147106475
+      Irregular Sprite Sheet_1: 754684278
+      Irregular Sprite Sheet_10: 1414462906
+      Irregular Sprite Sheet_100: 2069276699
+      Irregular Sprite Sheet_101: 975776743
+      Irregular Sprite Sheet_102: 866991269
+      Irregular Sprite Sheet_103: -114722718
+      Irregular Sprite Sheet_104: -534462829
+      Irregular Sprite Sheet_105: -1202201110
+      Irregular Sprite Sheet_106: -584928967
+      Irregular Sprite Sheet_107: 1419199662
+      Irregular Sprite Sheet_108: -347759492
+      Irregular Sprite Sheet_109: -476568350
+      Irregular Sprite Sheet_11: 914352265
+      Irregular Sprite Sheet_110: -1728511066
+      Irregular Sprite Sheet_111: -2052735544
+      Irregular Sprite Sheet_112: -1761928182
+      Irregular Sprite Sheet_113: -1800777840
+      Irregular Sprite Sheet_114: -882017904
+      Irregular Sprite Sheet_115: 62051382
+      Irregular Sprite Sheet_116: 1003773764
+      Irregular Sprite Sheet_117: 319651686
+      Irregular Sprite Sheet_118: 824093504
+      Irregular Sprite Sheet_119: -1851678096
+      Irregular Sprite Sheet_12: -450194644
+      Irregular Sprite Sheet_120: -181836138
+      Irregular Sprite Sheet_121: 1848621094
+      Irregular Sprite Sheet_122: 1683668073
+      Irregular Sprite Sheet_123: 816080775
+      Irregular Sprite Sheet_124: 353194911
+      Irregular Sprite Sheet_125: 890493490
+      Irregular Sprite Sheet_126: -1370528591
+      Irregular Sprite Sheet_127: -759690018
+      Irregular Sprite Sheet_128: -1055223368
+      Irregular Sprite Sheet_129: 2591153
+      Irregular Sprite Sheet_13: -1040525170
+      Irregular Sprite Sheet_130: -1204415062
+      Irregular Sprite Sheet_131: -2076044517
+      Irregular Sprite Sheet_132: -1378595528
+      Irregular Sprite Sheet_133: 1522522162
+      Irregular Sprite Sheet_134: 602115906
+      Irregular Sprite Sheet_135: 348207272
+      Irregular Sprite Sheet_136: -591195245
+      Irregular Sprite Sheet_137: 1497324349
+      Irregular Sprite Sheet_138: -690768620
+      Irregular Sprite Sheet_139: -1660128845
+      Irregular Sprite Sheet_14: -643660931
+      Irregular Sprite Sheet_140: -750211943
+      Irregular Sprite Sheet_141: 2045450759
+      Irregular Sprite Sheet_142: 1498398276
+      Irregular Sprite Sheet_143: 258707354
+      Irregular Sprite Sheet_144: 955864137
+      Irregular Sprite Sheet_145: 1270093752
+      Irregular Sprite Sheet_146: -1909122656
+      Irregular Sprite Sheet_147: 521709030
+      Irregular Sprite Sheet_148: -457451344
+      Irregular Sprite Sheet_149: -2100817432
+      Irregular Sprite Sheet_15: 1749119065
+      Irregular Sprite Sheet_150: 1736427674
+      Irregular Sprite Sheet_151: -1861433163
+      Irregular Sprite Sheet_152: -1822172488
+      Irregular Sprite Sheet_153: -853689410
+      Irregular Sprite Sheet_154: 247498497
+      Irregular Sprite Sheet_155: -535477086
+      Irregular Sprite Sheet_156: -1748109771
+      Irregular Sprite Sheet_157: 1052704502
+      Irregular Sprite Sheet_158: 534202102
+      Irregular Sprite Sheet_159: -628591410
+      Irregular Sprite Sheet_16: -1815723965
+      Irregular Sprite Sheet_160: -1701636298
+      Irregular Sprite Sheet_161: 670052331
+      Irregular Sprite Sheet_162: 521735180
+      Irregular Sprite Sheet_163: 326424682
+      Irregular Sprite Sheet_164: -1097399179
+      Irregular Sprite Sheet_165: -145712568
+      Irregular Sprite Sheet_166: -932655316
+      Irregular Sprite Sheet_167: -1510868103
+      Irregular Sprite Sheet_168: -2008573705
+      Irregular Sprite Sheet_169: -1716765227
+      Irregular Sprite Sheet_17: -968898270
+      Irregular Sprite Sheet_170: -403362663
+      Irregular Sprite Sheet_171: -1096229808
+      Irregular Sprite Sheet_172: -744645662
+      Irregular Sprite Sheet_173: -790999043
+      Irregular Sprite Sheet_174: -45987895
+      Irregular Sprite Sheet_175: 935977275
+      Irregular Sprite Sheet_176: 2095115652
+      Irregular Sprite Sheet_177: -485463171
+      Irregular Sprite Sheet_178: 73003270
+      Irregular Sprite Sheet_179: 1495529670
+      Irregular Sprite Sheet_18: 1929958964
+      Irregular Sprite Sheet_180: -1940717913
+      Irregular Sprite Sheet_181: 598885661
+      Irregular Sprite Sheet_182: 741733933
+      Irregular Sprite Sheet_183: 2026028237
+      Irregular Sprite Sheet_184: 1949923785
+      Irregular Sprite Sheet_185: -1929679177
+      Irregular Sprite Sheet_186: 2034489711
+      Irregular Sprite Sheet_187: -1031271113
+      Irregular Sprite Sheet_188: -1667179835
+      Irregular Sprite Sheet_189: 1535338039
+      Irregular Sprite Sheet_19: -1518607570
+      Irregular Sprite Sheet_190: 1022893997
+      Irregular Sprite Sheet_191: -2029083856
+      Irregular Sprite Sheet_192: 1629804490
+      Irregular Sprite Sheet_193: 2056821233
+      Irregular Sprite Sheet_194: 467771652
+      Irregular Sprite Sheet_195: 1756439941
+      Irregular Sprite Sheet_196: 1507243972
+      Irregular Sprite Sheet_197: 2059234668
+      Irregular Sprite Sheet_198: 1057950909
+      Irregular Sprite Sheet_199: 988859831
+      Irregular Sprite Sheet_2: 1463165562
+      Irregular Sprite Sheet_20: 1344986183
+      Irregular Sprite Sheet_200: 1736807130
+      Irregular Sprite Sheet_201: 341592838
+      Irregular Sprite Sheet_202: -464680212
+      Irregular Sprite Sheet_203: -892862951
+      Irregular Sprite Sheet_204: -778906497
+      Irregular Sprite Sheet_205: 447359765
+      Irregular Sprite Sheet_206: 277544180
+      Irregular Sprite Sheet_207: 1057134164
+      Irregular Sprite Sheet_208: -2045489068
+      Irregular Sprite Sheet_209: -48824851
+      Irregular Sprite Sheet_21: 1252649129
+      Irregular Sprite Sheet_210: 1317333600
+      Irregular Sprite Sheet_211: -822041809
+      Irregular Sprite Sheet_212: 1337257258
+      Irregular Sprite Sheet_213: -623050367
+      Irregular Sprite Sheet_214: 97067488
+      Irregular Sprite Sheet_215: -1857074198
+      Irregular Sprite Sheet_216: 751306325
+      Irregular Sprite Sheet_217: -1023918827
+      Irregular Sprite Sheet_218: 929212878
+      Irregular Sprite Sheet_219: -1489378998
+      Irregular Sprite Sheet_22: -1412810951
+      Irregular Sprite Sheet_220: -973003476
+      Irregular Sprite Sheet_221: -377441128
+      Irregular Sprite Sheet_222: -1873623624
+      Irregular Sprite Sheet_223: -775726208
+      Irregular Sprite Sheet_224: 877872450
+      Irregular Sprite Sheet_225: -211530248
+      Irregular Sprite Sheet_226: -1628434679
+      Irregular Sprite Sheet_227: 513218708
+      Irregular Sprite Sheet_228: -32043009
+      Irregular Sprite Sheet_229: -734819061
+      Irregular Sprite Sheet_23: -2091934180
+      Irregular Sprite Sheet_230: -1409508767
+      Irregular Sprite Sheet_231: 336895740
+      Irregular Sprite Sheet_232: -403363382
+      Irregular Sprite Sheet_233: 212084957
+      Irregular Sprite Sheet_234: -1143624689
+      Irregular Sprite Sheet_235: -2082515116
+      Irregular Sprite Sheet_236: -1048324177
+      Irregular Sprite Sheet_237: 846504539
+      Irregular Sprite Sheet_238: 378636236
+      Irregular Sprite Sheet_239: -1972231268
+      Irregular Sprite Sheet_24: 153477644
+      Irregular Sprite Sheet_240: -775844578
+      Irregular Sprite Sheet_241: -1921582347
+      Irregular Sprite Sheet_242: 54077410
+      Irregular Sprite Sheet_243: 1093002992
+      Irregular Sprite Sheet_244: -1585051824
+      Irregular Sprite Sheet_245: -939097887
+      Irregular Sprite Sheet_246: -1953877311
+      Irregular Sprite Sheet_247: 103916204
+      Irregular Sprite Sheet_248: 424145827
+      Irregular Sprite Sheet_249: -1822230904
+      Irregular Sprite Sheet_25: -74189850
+      Irregular Sprite Sheet_250: 953457763
+      Irregular Sprite Sheet_251: -434492631
+      Irregular Sprite Sheet_252: -2038930752
+      Irregular Sprite Sheet_253: -299388158
+      Irregular Sprite Sheet_254: -338096529
+      Irregular Sprite Sheet_255: -257566132
+      Irregular Sprite Sheet_256: 1850844791
+      Irregular Sprite Sheet_257: -458103850
+      Irregular Sprite Sheet_258: -159634539
+      Irregular Sprite Sheet_259: 1370733229
+      Irregular Sprite Sheet_26: -743539486
+      Irregular Sprite Sheet_260: 673967044
+      Irregular Sprite Sheet_261: 268542298
+      Irregular Sprite Sheet_262: 1217843513
+      Irregular Sprite Sheet_263: 152305928
+      Irregular Sprite Sheet_264: 1571965587
+      Irregular Sprite Sheet_265: -481032412
+      Irregular Sprite Sheet_266: -207373401
+      Irregular Sprite Sheet_267: 1064268770
+      Irregular Sprite Sheet_268: -554194986
+      Irregular Sprite Sheet_269: -1528509522
+      Irregular Sprite Sheet_27: -642733691
+      Irregular Sprite Sheet_270: -374819776
+      Irregular Sprite Sheet_271: -2063147207
+      Irregular Sprite Sheet_272: -822841139
+      Irregular Sprite Sheet_273: 492105040
+      Irregular Sprite Sheet_274: 1651379624
+      Irregular Sprite Sheet_275: -840139168
+      Irregular Sprite Sheet_276: 126689823
+      Irregular Sprite Sheet_277: 162947743
+      Irregular Sprite Sheet_278: 563296867
+      Irregular Sprite Sheet_279: 1770878102
+      Irregular Sprite Sheet_28: 1216529235
+      Irregular Sprite Sheet_280: 485302882
+      Irregular Sprite Sheet_281: 1116086463
+      Irregular Sprite Sheet_282: -1796221081
+      Irregular Sprite Sheet_283: 153751490
+      Irregular Sprite Sheet_284: -157155517
+      Irregular Sprite Sheet_285: 1886496307
+      Irregular Sprite Sheet_286: -249173773
+      Irregular Sprite Sheet_287: -687213663
+      Irregular Sprite Sheet_288: -241211028
+      Irregular Sprite Sheet_289: -1097524732
+      Irregular Sprite Sheet_29: 2034687455
+      Irregular Sprite Sheet_290: -962143036
+      Irregular Sprite Sheet_291: -2138670260
+      Irregular Sprite Sheet_292: -105941971
+      Irregular Sprite Sheet_293: 2074467198
+      Irregular Sprite Sheet_294: 2006039378
+      Irregular Sprite Sheet_295: 1216378126
+      Irregular Sprite Sheet_296: -390120183
+      Irregular Sprite Sheet_297: 178454544
+      Irregular Sprite Sheet_298: 1982640205
+      Irregular Sprite Sheet_299: 1520331452
+      Irregular Sprite Sheet_3: -655981640
+      Irregular Sprite Sheet_30: 213177056
+      Irregular Sprite Sheet_300: 1825160634
+      Irregular Sprite Sheet_301: -461480338
+      Irregular Sprite Sheet_302: -98276341
+      Irregular Sprite Sheet_303: 1654773612
+      Irregular Sprite Sheet_304: 1423928982
+      Irregular Sprite Sheet_305: 1106367277
+      Irregular Sprite Sheet_306: 1163639712
+      Irregular Sprite Sheet_307: 1682697871
+      Irregular Sprite Sheet_308: 1708778634
+      Irregular Sprite Sheet_309: -1016570601
+      Irregular Sprite Sheet_31: 878541096
+      Irregular Sprite Sheet_310: 914574559
+      Irregular Sprite Sheet_311: -1043262457
+      Irregular Sprite Sheet_312: 1138179809
+      Irregular Sprite Sheet_313: 334979578
+      Irregular Sprite Sheet_314: 235526597
+      Irregular Sprite Sheet_315: -270957510
+      Irregular Sprite Sheet_316: -1635505042
+      Irregular Sprite Sheet_317: 132767000
+      Irregular Sprite Sheet_318: -253390065
+      Irregular Sprite Sheet_319: 492045201
+      Irregular Sprite Sheet_32: -1473176026
+      Irregular Sprite Sheet_320: -1455049313
+      Irregular Sprite Sheet_321: -12134822
+      Irregular Sprite Sheet_322: -1590354083
+      Irregular Sprite Sheet_323: 1548553817
+      Irregular Sprite Sheet_324: 1665454611
+      Irregular Sprite Sheet_325: 607665038
+      Irregular Sprite Sheet_326: 1993269475
+      Irregular Sprite Sheet_327: 174150269
+      Irregular Sprite Sheet_328: 1717531423
+      Irregular Sprite Sheet_329: -78031531
+      Irregular Sprite Sheet_33: -1513078594
+      Irregular Sprite Sheet_330: 568872187
+      Irregular Sprite Sheet_331: 240267449
+      Irregular Sprite Sheet_332: 1523658159
+      Irregular Sprite Sheet_333: -1560626109
+      Irregular Sprite Sheet_334: -1345619110
+      Irregular Sprite Sheet_335: 1544322750
+      Irregular Sprite Sheet_336: 1161348533
+      Irregular Sprite Sheet_337: -1623469329
+      Irregular Sprite Sheet_338: 1724946784
+      Irregular Sprite Sheet_339: 1126146594
+      Irregular Sprite Sheet_34: -334658433
+      Irregular Sprite Sheet_340: 1722114783
+      Irregular Sprite Sheet_341: -1264344274
+      Irregular Sprite Sheet_342: 1478238265
+      Irregular Sprite Sheet_343: 1138108393
+      Irregular Sprite Sheet_344: -973049307
+      Irregular Sprite Sheet_345: 902447678
+      Irregular Sprite Sheet_346: -1323613834
+      Irregular Sprite Sheet_347: -1922618428
+      Irregular Sprite Sheet_348: 46758696
+      Irregular Sprite Sheet_349: 2038349107
+      Irregular Sprite Sheet_35: -1784974943
+      Irregular Sprite Sheet_350: -704591595
+      Irregular Sprite Sheet_351: -297217908
+      Irregular Sprite Sheet_352: -2145110577
+      Irregular Sprite Sheet_353: 84807987
+      Irregular Sprite Sheet_354: -104221423
+      Irregular Sprite Sheet_355: -1584023298
+      Irregular Sprite Sheet_356: 1198284403
+      Irregular Sprite Sheet_357: -255493378
+      Irregular Sprite Sheet_358: 1471425087
+      Irregular Sprite Sheet_359: 1582475629
+      Irregular Sprite Sheet_36: 127518062
+      Irregular Sprite Sheet_360: -1445255155
+      Irregular Sprite Sheet_361: -496940627
+      Irregular Sprite Sheet_362: -1301468345
+      Irregular Sprite Sheet_363: 1791054553
+      Irregular Sprite Sheet_364: -1987526717
+      Irregular Sprite Sheet_365: 2116686167
+      Irregular Sprite Sheet_366: 404608444
+      Irregular Sprite Sheet_367: -154113913
+      Irregular Sprite Sheet_368: -48631734
+      Irregular Sprite Sheet_369: -827107168
+      Irregular Sprite Sheet_37: -250689494
+      Irregular Sprite Sheet_370: 729196700
+      Irregular Sprite Sheet_371: -836472254
+      Irregular Sprite Sheet_372: 222172428
+      Irregular Sprite Sheet_373: 1073315863
+      Irregular Sprite Sheet_374: 564722336
+      Irregular Sprite Sheet_375: 329978333
+      Irregular Sprite Sheet_376: -1622786233
+      Irregular Sprite Sheet_377: 1593295252
+      Irregular Sprite Sheet_378: 1569672630
+      Irregular Sprite Sheet_379: -799568439
+      Irregular Sprite Sheet_38: 1268848264
+      Irregular Sprite Sheet_380: -119915680
+      Irregular Sprite Sheet_381: 193549887
+      Irregular Sprite Sheet_382: 1454302794
+      Irregular Sprite Sheet_383: -991954619
+      Irregular Sprite Sheet_384: 945241990
+      Irregular Sprite Sheet_385: -179123250
+      Irregular Sprite Sheet_386: 957720456
+      Irregular Sprite Sheet_387: -1920942513
+      Irregular Sprite Sheet_388: -1794920815
+      Irregular Sprite Sheet_389: 1163344248
+      Irregular Sprite Sheet_39: 1288980977
+      Irregular Sprite Sheet_390: -2099215982
+      Irregular Sprite Sheet_391: -1722667671
+      Irregular Sprite Sheet_392: -1696264329
+      Irregular Sprite Sheet_393: 1971495804
+      Irregular Sprite Sheet_394: 2009513588
+      Irregular Sprite Sheet_395: 421170959
+      Irregular Sprite Sheet_396: -1852422676
+      Irregular Sprite Sheet_397: -844723525
+      Irregular Sprite Sheet_398: -493444967
+      Irregular Sprite Sheet_399: 1226905283
+      Irregular Sprite Sheet_4: 1267004675
+      Irregular Sprite Sheet_40: -969438310
+      Irregular Sprite Sheet_400: -77664387
+      Irregular Sprite Sheet_401: 1392154773
+      Irregular Sprite Sheet_402: 1487186938
+      Irregular Sprite Sheet_403: -324967498
+      Irregular Sprite Sheet_404: -600644669
+      Irregular Sprite Sheet_405: 163436983
+      Irregular Sprite Sheet_406: 399709030
+      Irregular Sprite Sheet_407: -2016412520
+      Irregular Sprite Sheet_408: -1910349906
+      Irregular Sprite Sheet_409: -37518633
+      Irregular Sprite Sheet_41: 234246995
+      Irregular Sprite Sheet_410: 8419497
+      Irregular Sprite Sheet_411: 70456545
+      Irregular Sprite Sheet_412: -2094708907
+      Irregular Sprite Sheet_413: 952405667
+      Irregular Sprite Sheet_414: -107726925
+      Irregular Sprite Sheet_415: 985714720
+      Irregular Sprite Sheet_416: 686798356
+      Irregular Sprite Sheet_417: 628669550
+      Irregular Sprite Sheet_418: -909906906
+      Irregular Sprite Sheet_419: 2110063914
+      Irregular Sprite Sheet_42: -108987897
+      Irregular Sprite Sheet_420: 976887418
+      Irregular Sprite Sheet_421: 1661317056
+      Irregular Sprite Sheet_422: 85878517
+      Irregular Sprite Sheet_423: 375677176
+      Irregular Sprite Sheet_424: -2084004828
+      Irregular Sprite Sheet_425: -1347880212
+      Irregular Sprite Sheet_426: 1269291668
+      Irregular Sprite Sheet_427: 1475302502
+      Irregular Sprite Sheet_428: 757672304
+      Irregular Sprite Sheet_429: 58207842
+      Irregular Sprite Sheet_43: -1596950297
+      Irregular Sprite Sheet_430: -90064767
+      Irregular Sprite Sheet_431: 1915140091
+      Irregular Sprite Sheet_432: 439954
+      Irregular Sprite Sheet_433: 195117201
+      Irregular Sprite Sheet_434: 918916964
+      Irregular Sprite Sheet_435: 441963572
+      Irregular Sprite Sheet_436: -1085072811
+      Irregular Sprite Sheet_437: -526415964
+      Irregular Sprite Sheet_438: 134829557
+      Irregular Sprite Sheet_439: 1537350816
+      Irregular Sprite Sheet_44: 612717424
+      Irregular Sprite Sheet_440: -374374954
+      Irregular Sprite Sheet_441: -1098247736
+      Irregular Sprite Sheet_442: 1325164858
+      Irregular Sprite Sheet_443: 235769103
+      Irregular Sprite Sheet_444: -1049983822
+      Irregular Sprite Sheet_445: -1766970583
+      Irregular Sprite Sheet_446: -135367082
+      Irregular Sprite Sheet_447: 1658273290
+      Irregular Sprite Sheet_448: -805439098
+      Irregular Sprite Sheet_449: -119560030
+      Irregular Sprite Sheet_45: -1661719592
+      Irregular Sprite Sheet_450: -1435216595
+      Irregular Sprite Sheet_451: 2089117764
+      Irregular Sprite Sheet_452: -1053838227
+      Irregular Sprite Sheet_453: 1648134291
+      Irregular Sprite Sheet_454: -2009530326
+      Irregular Sprite Sheet_455: -667370502
+      Irregular Sprite Sheet_456: 1303689870
+      Irregular Sprite Sheet_457: -1608131106
+      Irregular Sprite Sheet_458: -185818351
+      Irregular Sprite Sheet_459: 424635776
+      Irregular Sprite Sheet_46: 1588059624
+      Irregular Sprite Sheet_47: -858394239
+      Irregular Sprite Sheet_48: -267269878
+      Irregular Sprite Sheet_49: 621247178
+      Irregular Sprite Sheet_5: 602927340
+      Irregular Sprite Sheet_50: -1942152664
+      Irregular Sprite Sheet_51: -1645039029
+      Irregular Sprite Sheet_52: 1400202723
+      Irregular Sprite Sheet_53: 4766231
+      Irregular Sprite Sheet_54: 1949981130
+      Irregular Sprite Sheet_55: 239356257
+      Irregular Sprite Sheet_56: -797981453
+      Irregular Sprite Sheet_57: -1318483919
+      Irregular Sprite Sheet_58: -407455375
+      Irregular Sprite Sheet_59: -136425093
+      Irregular Sprite Sheet_6: 1298233083
+      Irregular Sprite Sheet_60: 594184861
+      Irregular Sprite Sheet_61: -1225888251
+      Irregular Sprite Sheet_62: -216280747
+      Irregular Sprite Sheet_63: -1008973316
+      Irregular Sprite Sheet_64: 744218669
+      Irregular Sprite Sheet_65: -1424171311
+      Irregular Sprite Sheet_66: 1246165470
+      Irregular Sprite Sheet_67: -702334607
+      Irregular Sprite Sheet_68: -158300378
+      Irregular Sprite Sheet_69: 458122119
+      Irregular Sprite Sheet_7: 1125738315
+      Irregular Sprite Sheet_70: 1390647715
+      Irregular Sprite Sheet_71: -1978779271
+      Irregular Sprite Sheet_72: -629165490
+      Irregular Sprite Sheet_73: 841756371
+      Irregular Sprite Sheet_74: 2029300681
+      Irregular Sprite Sheet_75: -962598598
+      Irregular Sprite Sheet_76: 1689912229
+      Irregular Sprite Sheet_77: -206831956
+      Irregular Sprite Sheet_78: 1913367796
+      Irregular Sprite Sheet_79: -1753864416
+      Irregular Sprite Sheet_8: -766585206
+      Irregular Sprite Sheet_80: -1271403653
+      Irregular Sprite Sheet_81: 1630382838
+      Irregular Sprite Sheet_82: -233970174
+      Irregular Sprite Sheet_83: -1770519305
+      Irregular Sprite Sheet_84: -1165168646
+      Irregular Sprite Sheet_85: 90296185
+      Irregular Sprite Sheet_86: 1946272104
+      Irregular Sprite Sheet_87: -1925604846
+      Irregular Sprite Sheet_88: -391244172
+      Irregular Sprite Sheet_89: -797846729
+      Irregular Sprite Sheet_9: 146213341
+      Irregular Sprite Sheet_90: -4871008
+      Irregular Sprite Sheet_91: 922874989
+      Irregular Sprite Sheet_92: 484898547
+      Irregular Sprite Sheet_93: 931460879
+      Irregular Sprite Sheet_94: -1066423373
+      Irregular Sprite Sheet_95: -2138117868
+      Irregular Sprite Sheet_96: 730295994
+      Irregular Sprite Sheet_97: 1206914694
+      Irregular Sprite Sheet_98: 1672739957
+      Irregular Sprite Sheet_99: 691334755
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
