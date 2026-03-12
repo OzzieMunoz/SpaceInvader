@@ -455,10 +455,10 @@ TextureImporter:
       name: Sprite Collection_17
       rect:
         serializedVersion: 2
-        x: 351
-        y: 801
-        width: 112
-        height: 75
+        x: 344
+        y: 797
+        width: 125
+        height: 84
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -482,7 +482,7 @@ TextureImporter:
         width: 51
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -504,7 +504,7 @@ TextureImporter:
         width: 51
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -526,7 +526,7 @@ TextureImporter:
         width: 51
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -548,7 +548,7 @@ TextureImporter:
         width: 51
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -570,7 +570,7 @@ TextureImporter:
         width: 51
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -636,7 +636,7 @@ TextureImporter:
         width: 51
         height: 39
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -645,6 +645,116 @@ TextureImporter:
       bones: []
       spriteID: e5e3429199864254ebaadf2a1951f8fb
       internalID: 1851943683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Collection_25
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 842
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5441d3d71954904eb362fbafe281768
+      internalID: -1121719257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Collection_26
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 836
+        width: 78
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acc11fda98b09ef42a4eb5ff602746f9
+      internalID: -807698673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Collection_27
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 797
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75bf694eb6a42e94390237ac41e059ab
+      internalID: 418069603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Collection_28
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 797
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f012ae3e6d8491438435bf48f17359d
+      internalID: 1564861092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Sprite Collection_29
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 806
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d01a38db68b9ff4fb81c45a23643994
+      internalID: -316557960
       vertices: []
       indices: 
       edges: []
@@ -683,6 +793,11 @@ TextureImporter:
       Sprite Collection_22: -1563540688
       Sprite Collection_23: -1077900844
       Sprite Collection_24: -65558836
+      Sprite Collection_25: -1121719257
+      Sprite Collection_26: -807698673
+      Sprite Collection_27: 418069603
+      Sprite Collection_28: 1564861092
+      Sprite Collection_29: -316557960
       Sprite Collection_3: -512396167
       Sprite Collection_4: 76189317
       Sprite Collection_5: 1393869278

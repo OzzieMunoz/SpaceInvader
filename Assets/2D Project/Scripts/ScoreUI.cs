@@ -31,9 +31,9 @@ public class ScoreUI : MonoBehaviour
         Enemy.onEnemyDied -= OnEnemyDied;
     }
 
-    void OnEnemyDied(float points)
+    void OnEnemyDied(int points)
     {
-        score += Mathf.RoundToInt(points);
+        score += points;
 
         if (score > highScore)
         {

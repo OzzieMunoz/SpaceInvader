@@ -18,6 +18,8 @@ public class EnemyFleet : MonoBehaviour
     {
         initialEnemyCount = transform.childCount;
         timer = startInterval;
+
+        ApplyAnimationSpeed(timer);
     }
 
     void Update()
@@ -28,7 +30,9 @@ public class EnemyFleet : MonoBehaviour
         if (timer > 0f) return;
 
         MoveFleet();
+
         timer = GetCurrentInterval();
+        ApplyAnimationSpeed(timer);
     }
 
     void MoveFleet()
@@ -67,5 +71,25 @@ public class EnemyFleet : MonoBehaviour
         float progress = 1f - (alive / (float)initialEnemyCount);
 
         return Mathf.Lerp(startInterval, minInterval, progress);
+    }
+
+    void ApplyAnimationSpeed(float interval)
+    {
+        if (interval <= 0f) return;
+
+        float speed = startInterval / interval;
+
+        Animator[] animators = GetComponentsInChildren<Animator>();
+        foreach (Animator a in animators)
+        {
+            if (a == null) continue;
+
+            AnimatorStateInfo state = a.GetCurrentAnimatorStateInfo(0);
+
+            if (state.IsName("EnemyDeath"))
+                continue;
+
+            a.speed = speed;
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem;
 
@@ -74,6 +75,9 @@ public class Player : MonoBehaviour
 
         Destroy(shotObj, bulletLifetime);
 
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlaySFX(AudioManager.Instance.playerShoot);
+
         if (anim != null)
             anim.SetTrigger("Shot Trigger");
     }
@@ -118,6 +122,29 @@ public class Player : MonoBehaviour
         rb.simulated = false;
         col.enabled = false;
 
+        if (AudioManager.Instance != null)
+            AudioManager.Instance.PlaySFXAtPosition(AudioManager.Instance.playerDeath, transform.position);
+
+        if (anim != null)
+            anim.SetTrigger("Die");
+
+        StartCoroutine(DeathRoutine());
+    }
+
+    private IEnumerator DeathRoutine()
+    {
+        yield return null;
+
+        float delay = 0.25f;
+
+        if (anim != null)
+        {
+            AnimatorStateInfo stateInfo = anim.GetCurrentAnimatorStateInfo(0);
+            if (stateInfo.length > 0.0f)
+                delay = stateInfo.length;
+        }
+
+        yield return new WaitForSeconds(delay);
 
         if (destroyOnDeath)
         {
